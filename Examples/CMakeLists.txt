@@ -11,6 +11,8 @@ SET(EXAMPLE_DIRS
   Status
   Receiver
   Thread
+  Lab_PWP/NowyKlient
+  Lab_PWP/NowySerwer
   )
 
 if (${OpenIGTLink_PROTOCOL_VERSION} STREQUAL "2")
